@@ -17,7 +17,7 @@ The web application allows users to upload a rock image and receive:
 ---
 
 ## Live Demo
--[app]https://rockclassifier-nm93vaywmmyywwtawu8tca.streamlit.app/
+-[App_link](https://rockclassifier-nm93vaywmmyywwtawu8tca.streamlit.app/).
 
 ## Linkedin
 -[LinkedIn Link](https://www.linkedin.com/in/sayan-das-1466b1369/)
