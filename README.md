@@ -20,7 +20,7 @@ The web application allows users to upload a rock image and receive:
 -link
 
 ## Linkedin
--link
+-(https://www.linkedin.com/in/sayan-das-1466b1369/)
 
 ## 🚀 Features
 
