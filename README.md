@@ -204,10 +204,8 @@ This application is intended for educational and demonstration purposes and shou
 
 - Expand the dataset
 - Add additional rock classes
-- Experiment with EfficientNet and ConvNeXt
+- Experiment with ConvNeXt
 - Hyperparameter optimization
-- Grad-CAM explainability
-- Cloud deployment
 
 ---
 
